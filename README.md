@@ -38,4 +38,4 @@ First game in the series. Enemy AI, surveillance system, level loading and save 
 
 ### 📫 Contact
 
-[Telegram](https://t.me/@Nolan_MD) · [Email](mailto:andr48511@gmail.com) · [GameJolt](https://gamejolt.com/@Retroworks)
+[Telegram](https://t.me/Nolan_MD) · [Email](mailto:andr48511@gmail.com) · [GameJolt](https://gamejolt.com/@Retroworks)
