@@ -9,7 +9,7 @@ Worked with Unity from version 5 through Unity 6.
 ### 🎮 Shipped games
 
 **[Codename — Industrial](https://gamejolt.com/games/CDNI/676346)** · 2023 · solo
-Night-shift horror sim set in the USSR, 1993. Conveyor logistics, equipment failure and repair mechanics, enemy AI, CCTV system, save system, EN/RU localization, GameJolt API integration.
+Night-shift horror sim set in 1990s post-Soviet Russia. Conveyor logistics, equipment failure and repair mechanics, enemy AI, CCTV system, save system, EN/RU localization, GameJolt API integration.
 `358 followers · 7.4k views · 917 downloads`
 
 **[Codename_Underground](https://gamejolt.com/games/CDNU/600891)** · 2022 · solo
